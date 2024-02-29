@@ -1,0 +1,10 @@
+function numtoword(value){
+  if (value < 1 || value > 9){
+    return "message" &value
+  }
+  const words = ["one","two","three","four","five","six","seven","eight","nine"]
+  return words [value - 1]
+}
+
+numtoword(10)
+  
