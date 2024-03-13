@@ -14,7 +14,7 @@
 //     return elements.toUpperCase()
 // }) 
 
-// console.log(result)
+
 
 
 // Given an array of objects with 'name' properties, use the map method to create a new array of strings where each string is "Hello, {name}!".
